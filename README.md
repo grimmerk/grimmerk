@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tckang/) ![Stars](https://img.shields.io/github/stars/grimmer0125?style=social)
+## 👋 Hello there, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grimmerk/) ![Stars](https://img.shields.io/github/stars/grimmerk?style=social)
 
 I'm passionate about making something good for people. I love science, programming, and psychology, but not limited to these. I have participated in IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python recently and used C/C++/C#/Objective-C and Go (side project) languages. I've successfully been a manager or leader in building mobile apps and full-stack teams and introduced Agile culture/flow in those organizations. Welcome any collaboration.
 
