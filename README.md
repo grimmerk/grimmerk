@@ -43,12 +43,13 @@ Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyC
 1. Taiwan Legal-Tech hackathon https://github.com/grimmer0125/lawtechhackson 2022.08
 2. https://github.com/pycontw/facebook_page_insights_client It was planned to be released a Python PyPI package. 2021.11.
 3. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,100+ downloads. [project](https://github.com/grimmer0125/express-mongo-rest-k8s-sample).
-4. Web: [Taiwan house price chart with auto update data](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (Including 2012~2018 data, `auto update data` server function is not maintained somehow)
-5. Medium article, Jupyter Notebook: [Using GitHub Stargazers Distribution to Compare React, Angular and Vue](https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073)
-6. [AI+Electron](https://github.com/grimmer0125/electron-face-finder) A demo project to use a image including a face to find out the other images including similar faces on your comuters.  
-7. [A full-stack TypeScript example project](https://github.com/grimmer0125/typescript-full-stack-example) that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
-8. E-book [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
-9. [p2pMessenger](https://github.com/grimmer0125/p2pMessenger) demonstrates how to use a WebSocket signal server to exchange the IP information of every pair of iOS clients and constructs a P2P STUN channel to exchange text messages. STUN is a part of WebRTC.
+4. [search-github-starred](https://github.com/grimmerk/search-github-starred) Full-Text Search the readme, description, homepage and URL of your GitHub starred repository. Use GitHub OAuth 2, React, Redux, Golang (server side), Elasticsearch, Redis. 
+5. Web: [Taiwan house price chart with auto update data](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (Including 2012~2018 data, `auto update data` server function is not maintained somehow)
+6. Medium article, Jupyter Notebook: [Using GitHub Stargazers Distribution to Compare React, Angular and Vue](https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073)
+7. [AI+Electron](https://github.com/grimmer0125/electron-face-finder) A demo project to use an image including a face to find out the other images including similar faces on your computer.  
+8. [A full-stack TypeScript example project](https://github.com/grimmer0125/typescript-full-stack-example) that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
+9. E-book [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) An entry-level online ebook to record my notes to learn JavaScript, written in 2016, several months after starting to use JS. 
+10. [p2pMessenger](https://github.com/grimmer0125/p2pMessenger) demonstrates how to use a WebSocket signal server to exchange the IP information of every pair of iOS clients and constructs a P2P STUN channel to exchange text messages. STUN is a part of WebRTC.
 
 
 
