@@ -1,6 +1,14 @@
-## 👋 Hello there, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grimmerk/) ![Stars](https://img.shields.io/github/stars/grimmerk?style=social)
+## 👋 Hi, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grimmerk/) ![Stars](https://img.shields.io/github/stars/grimmerk?style=social)
 
-I'm passionate about making something good for people. I love science, programming, and psychology, but not limited to these. I have participated in IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python recently and used C/C++/C#/Objective-C and Go (side project) languages. I've successfully been a manager or leader in building mobile apps and full-stack teams and introduced Agile culture/flow in those organizations. Welcome any collaboration.
+Tech Lead at [Fireflies.ai](https://fireflies.ai), building agentic AI systems and LLM architecture for meeting intelligence at scale.
+
+15+ years in software engineering, with a physics background (BS + MS). I've worked across AI, medical imaging, astronomy ([CARTA](https://cartavis.org/) at Academia Sinica), IoT, and streaming — primarily in TypeScript, Python, and C/C++.
+
+Beyond code, I've built and led mobile and full-stack engineering teams and introduced Agile practices across organizations.
+
+**Currently into:** LLM agent architecture, RAG systems, context window optimization, MCP tooling
+
+Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyCon TW](https://tw.pycon.org/2021/zh-hant/conference/talk/214) · [PyCon APAC](https://2021.th.pycon.org/pages/speakers) · [COSCUP](https://coscup.org/2021/zh-TW/session/CGDY3P) | [grimmer.io](https://grimmer.io)
 
 ## Open-source free utilities
 
