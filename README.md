@@ -6,7 +6,7 @@ Tech Lead at [Fireflies.ai](https://fireflies.ai), building agentic AI systems a
 
 Beyond code, I've built and led mobile and full-stack engineering teams and introduced Agile practices across organizations.
 
-**Currently into:** LLM agent architecture, RAG systems, context window optimization, MCP tooling · Contributor to the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) ([PR #820](https://github.com/modelcontextprotocol/typescript-sdk/pull/820))
+**Currently into:** LLM agent architecture, RAG systems, context window optimization, MCP tooling · Contributor to the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
 
 Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyCon TW](https://tw.pycon.org/2021/zh-hant/conference/talk/214) · [PyCon APAC](https://2021.th.pycon.org/pages/speakers) · [COSCUP](https://coscup.org/2021/zh-TW/session/CGDY3P) | [grimmer.io](https://grimmer.io)
 
