@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grimmerk/) ![Stars](https://img.shields.io/github/stars/grimmerk?style=social)
+## 👋 Hi, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grimmerk/)
 
 Tech Lead at [Fireflies.ai](https://fireflies.ai), building agentic AI systems and LLM architecture for meeting intelligence at scale.
 
