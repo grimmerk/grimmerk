@@ -22,7 +22,7 @@ Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyC
 8. Chrome extension: ~~[Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)~~
 9. **Library**: [d4c-queue](https://www.npmjs.com/package/d4c-queue) A TypeScript in-memory & in-process task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, Node.js, throttle and concurrency. 100% test coverage. ~ **10,000+ downloads**
 10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modified version of [numjs](https://www.npmjs.com/package/numjs) **15,000+ downloads** 
-11. **[SwitchV: macOS desktop app](https://apps.apple.com/us/app/switchv/id1663612397)**: **VS Code (Visual Studio Code)** quick launcher and switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. To use it, you must first install [SwitchV: VS Code extension](https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV), created in 2023. 
+11. **[CodeV: macOS desktop app](https://apps.apple.com/us/app/switchv/id1663612397)**: **VS Code (Visual Studio Code)** quick launcher and switcher, which can even launch a VS Code or Cursor window with the specific project folder name when VS Code or Cursor is not opened.
 
 
 ## Conferences and articles
