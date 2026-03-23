@@ -2,7 +2,7 @@
 
 Tech Lead at [Fireflies.ai](https://fireflies.ai), building agentic AI systems and LLM architecture for meeting intelligence at scale.
 
-15+ years in software engineering, with a physics background (BS + MS). I've worked across AI, medical imaging, astronomy ([CARTA](https://cartavis.org/) at Academia Sinica), IoT, and streaming — primarily in TypeScript, Python, and C/C++.
+15+ years in software engineering, with a physics background (BS + MS). I've worked across AI, medical imaging, astronomy ([CARTA](https://cartavis.org/), an international C++/JS open-source project at Academia Sinica), IoT, and streaming — primarily in TypeScript, Python, and C/C++.
 
 Beyond code, I've built and led mobile and full-stack engineering teams and introduced Agile practices across organizations.
 
