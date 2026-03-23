@@ -15,17 +15,17 @@ Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyC
 #### Developer Tools
 
 1. **[CodeV](https://github.com/grimmerk/codev)**: macOS app — VS Code/Cursor project quick launcher, Claude Code session switcher (iTerm2, Ghostty, cmux), and AI assistant powered by Claude. [Mac App Store](https://apps.apple.com/us/app/switchv/id1663612397) · [GitHub releases](https://github.com/grimmerk/codev/releases/latest)
-2. [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) — **60,000+ installs**
-3. [termtitle](https://pypi.org/project/termtitle/) — Python CLI to change macOS terminal title. PyPI, 22,000+ downloads
+2. [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) — **78,000+ installs**
+3. [termtitle](https://pypi.org/project/termtitle/) — Python CLI to change macOS terminal title. PyPI, 26,000+ downloads
 
 #### Libraries
 
-4. [d4c-queue](https://www.npmjs.com/package/d4c-queue) — TypeScript in-memory task queue. Sync/async, decorators, throttle, concurrency. 100% test coverage. ~**10,000+ downloads**
-5. [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) — NumPy-like TypeScript lib for browser/Node.js. **15,000+ downloads**
+4. [d4c-queue](https://www.npmjs.com/package/d4c-queue) — TypeScript in-memory task queue. Sync/async, decorators, throttle, concurrency. 100% test coverage. **15,000+ downloads**
+5. [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) — NumPy-like TypeScript lib for browser/Node.js. **20,000+ downloads**
 
 #### Medical Imaging
 
-6. [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) — Chrome extension + [Web version](https://grimmer.io/dicom-web-viewer/), **6,000+ installs**. Built with Pyodide (Python in browser) + React. [source](https://github.com/grimmerk/embedded-pydicom-react-viewer)
+6. [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) — Chrome extension + [Web version](https://grimmer.io/dicom-web-viewer/), **3,000+ users**. Built with Pyodide (Python in browser) + React. [source](https://github.com/grimmerk/embedded-pydicom-react-viewer)
 
 #### Chrome Extensions
 
