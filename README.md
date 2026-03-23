@@ -32,7 +32,7 @@ Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyC
 7. [GitHub inline code color editor](https://chrome.google.com/webstore/detail/github-inline-code-color/ancifpojcglbcoilgkpeiphjenigogmb) · [Gmail pagination slider](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
 
 <details>
-<summary><strong>Other notable projects</strong></summary>
+<summary><strong>Other notable projects</strong> — AI/ML, full-stack, mobile</summary>
 
 - [alphago-zero-tictactoe-js](https://github.com/grimmerk/alphago-zero-tictactoe-js) — AlphaZero/TensorFlow.js game framework, train or play tic-tac-toe AI in browser
 - [AI+Electron face finder](https://github.com/grimmerk/electron-face-finder) — Desktop app using deep learning to find similar faces. Electron + Python WebSocket server + trained NN model
