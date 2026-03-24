@@ -43,7 +43,7 @@ Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyC
 
 ## Talks
 
-1. **FOSSASIA Summit 2025** (Bangkok): [CodeV: Streamlining Developer Workflow with an Open Source VS Code Launcher](https://eventyay.com/e/4c0e0c27/session/9824) — [slide](https://slides.com/grimmer/fossasia-2025-switchv-streamlining-developer-workflow-with-an-open-source-vs-code-launcher)
+1. **FOSSASIA Summit 2025** (Bangkok): [CodeV: Streamlining Developer Workflow with an Open Source VS Code Launcher](https://eventyay.com/e/4c0e0c27/session/9824) — [slide](https://slides.com/grimmer/fossasia-2025-switchv-streamlining-developer-workflow-with-an-open-source-vs-code-launcher) · [video](https://www.youtube.com/watch?v=o5Y29yEV6BA)
 2. **PyCon APAC 2021** (Thailand): Use Pyodide to run Python in browsers — rendering medical DICOM files. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) · [video](https://youtu.be/kd4C6KNbHT4)
 3. **PyConTW 2021**: Use Pyodide to run Python in browsers — rendering medical DICOM files. [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) · [mandarin video](https://www.youtube.com/watch?v=Wk6sePJb26o)
 4. **COSCUP 2021**: Synchronization & concurrency in JavaScript — introducing [d4c-queue](https://www.npmjs.com/package/d4c-queue). [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) · [mandarin video](https://www.youtube.com/watch?v=_wxSAEts35w)
