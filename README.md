@@ -29,7 +29,8 @@ Speaker at [FOSSASIA 2025](https://eventyay.com/e/4c0e0c27/session/9824) · [PyC
 
 #### Chrome Extensions
 
-7. [GitHub inline code color editor](https://chrome.google.com/webstore/detail/github-inline-code-color/ancifpojcglbcoilgkpeiphjenigogmb) · [Gmail pagination slider](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
+7. [GitHub inline code color editor](https://chrome.google.com/webstore/detail/github-inline-code-color/ancifpojcglbcoilgkpeiphjenigogmb)
+8. [Gmail pagination slider](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
 
 <details>
 <summary><strong>Other notable projects</strong> — AI/ML, full-stack, mobile</summary>
